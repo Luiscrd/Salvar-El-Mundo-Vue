@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component Debe de hacer mach con el snapshot 1`] = `
+<div class="toolbar" role="banner"><img width="100" alt="Lc Logo" src=""><span>Salvar al mundo - Vue</span><img width="50" alt="Vue Logo" src="">
+  <div class="spacer"></div><a href="https://github.com/Luiscrd" target="_blank" class="link-github"><span class="span-lc">LcrPrograming</span><img src="" alt="Github" class="logo-github"></a>
+</div>
+<router-view></router-view>
+<div class="footer"><span class="by-footer">By: LcrPrograming</span><a href="https://www.linkedin.com/in/luis-carballo-rua-3b4763248/" target="_blank"><img src="" alt="Linked In" class="logo-liked"></a></div>
+`;

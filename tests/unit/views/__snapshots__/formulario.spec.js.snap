@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Formulario View Debe de hacer mach con el snapshot 1`] = `
+<div class="box-center">
+  <div class="box-second text-center pt-4 pb-5">
+    <div id="countdown" class="timer">03:00</div><img class="mb-4 mt-3" src="" alt="Ciborg">
+    <div class="progress mb-4">
+      <div class="progress-bar" role="progressbar" aria-label="Example with label" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">%</div>
+    </div>
+    <router-view></router-view>
+  </div>
+</div>
+`;

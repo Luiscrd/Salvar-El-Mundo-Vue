@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Formulario View Debe de hacer mach con el snapshot 1`] = `
+<div class="card text-center">
+  <div class="card-header text-danger">Acierto</div>
+  <div class="card-body text-dark d-flex flex-column align-items-center">
+    <h1 class="card-title mb-4 mt-5">Bien!!, has acertado</h1>
+    <h2>Sigue así y podremos salvarnos</h2><a class="btn btn-primary mt-4">Siguiente</a>
+  </div>
+  <div class="card-footer text-muted">Tue, 08 Nov 2022 00:28:42 GMT</div>
+</div>
+`;
